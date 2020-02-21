@@ -4,9 +4,11 @@ This is the repo for the cakesbysaray.com static site. This site does not have a
 
 ### Update process
 
-- __Clone this repo to your machine__
+- __Clone this repo and make a branch__
+
+	First things first. You'll need to clone the master branch of this repo to your local machine. Once cloned, be sure to make your own branch, just in case. I assume you know how to do all that without my help. However, here's the URL for the repo
 	```
-	git clone https://github.com/MoticorpIT/cakesbysaray
+	https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 	```
 - __Make changes to the site__
 
@@ -29,4 +31,9 @@ This is the repo for the cakesbysaray.com static site. This site does not have a
 		- If you're thinking of using the folder sync feature of your FTP client, it isn't recommended, but if you do it anyway, do so with extreme caution and don't come to me when its broke. This site doesn't take long to backup, might be worth it. 
 
 - __Check live site__
-Before you call it good, varify your changes have been applied, but more importantly _**make sure the site still appears and functions as it did before you made updates**_
+
+	Before you call it good, varify your changes have been applied, but more importantly _**make sure the site still appears and functions as it did before you made updates**_
+
+- __Push your changes__
+
+	Now that you've made your changes. Push your local files to the repo so it stays up to date. I'm not going through the steps to do that here, I assume you have that process down.
