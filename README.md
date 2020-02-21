@@ -6,7 +6,7 @@ This is the repo for the cakesbysaray.com static site. This site does not have a
 
 - __Clone this repo to your machine__
 	```
-	git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+	git clone https://github.com/MoticorpIT/cakesbysaray
 	```
 - __Make changes to the site__
 
